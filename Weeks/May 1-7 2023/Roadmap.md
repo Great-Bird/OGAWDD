@@ -1,0 +1,6 @@
+- [ ] Game loop
+- [ ] Board generation
+- [ ] Cell clearing
+- [ ] Cell flagging
+- [ ] Lose when a player steps on a mine
+- [ ] Win once all cells are revealed
